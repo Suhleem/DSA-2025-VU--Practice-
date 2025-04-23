@@ -7,6 +7,6 @@ def BubbleSort(A,n):
     print("This array is sorted through Bubble Sort Algorithm!")
     print(A)      #to print the final sorted array
 
-A = [7,2,4,1,5,3]
+A = [11,4,2,1,5,3]
 n = len(A)
 BubbleSort(A,n)
